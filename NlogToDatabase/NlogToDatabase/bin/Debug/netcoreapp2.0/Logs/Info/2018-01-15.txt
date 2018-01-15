@@ -1,0 +1,26 @@
+Microsoft.Extensions.Logging.Logger.Log|2018-01-15 11:05:39.3528|Info|Request starting HTTP/1.1 GET http://localhost:51581/api/values  
+Microsoft.Extensions.Logging.Logger.Log|2018-01-15 11:05:39.8368|Info|Request finished in 493.2257ms 500 text/html; charset=utf-8
+Microsoft.Extensions.Logging.Logger.Log|2018-01-15 11:05:40.1598|Info|Request starting HTTP/1.1 GET http://localhost:51581/favicon.ico  
+Microsoft.Extensions.Logging.Logger.Log|2018-01-15 11:05:40.3168|Info|Request finished in 156.9655ms 500 text/html; charset=utf-8
+Microsoft.Extensions.Logging.Logger.Log|2018-01-15 11:21:25.9866|Info|Request starting HTTP/1.1 GET http://localhost:51581/api/values  
+Microsoft.Extensions.Logging.Logger.Log|2018-01-15 11:21:26.2316|Info|Request finished in 253.0468ms 500 text/html; charset=utf-8
+Microsoft.Extensions.Logging.Logger.Log|2018-01-15 11:21:56.6946|Info|User profile is available. Using 'C:\Users\hatimalij\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+Microsoft.Extensions.Logging.Logger.Log|2018-01-15 11:21:57.9148|Info|Request starting HTTP/1.1 GET http://localhost:51581/api/values  
+Microsoft.Extensions.Logging.Logger.Log|2018-01-15 11:21:58.3128|Info|Executing action method NlogToDatabase.Controllers.ValuesController.Get (NlogToDatabase) with arguments ((null)) - ModelState is Valid
+Microsoft.Extensions.Logging.Logger.Log|2018-01-15 11:22:07.6467|Info|Writing log to Database ...
+Microsoft.Extensions.Logging.Logger.Log|2018-01-15 11:22:07.7027|Info|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+Microsoft.Extensions.Logging.Logger.Log|2018-01-15 11:22:08.7488|Info|Executed action NlogToDatabase.Controllers.ValuesController.Get (NlogToDatabase) in 10440.4659ms
+Microsoft.Extensions.Logging.Logger.Log|2018-01-15 11:22:09.4039|Info|Request finished in 11503.7914ms 200 application/json; charset=utf-8
+Microsoft.Extensions.Logging.Logger.Log|2018-01-15 11:23:35.5455|Info|Request starting HTTP/1.1 GET http://localhost:51581/api/values  
+Microsoft.Extensions.Logging.Logger.Log|2018-01-15 11:23:35.5995|Info|Executing action method NlogToDatabase.Controllers.ValuesController.Get (NlogToDatabase) with arguments ((null)) - ModelState is Valid
+Microsoft.Extensions.Logging.Logger.Log|2018-01-15 11:23:38.2518|Info|Writing log to Database ...
+Microsoft.Extensions.Logging.Logger.Log|2018-01-15 11:23:38.9729|Info|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+Microsoft.Extensions.Logging.Logger.Log|2018-01-15 11:23:39.0029|Info|Executed action NlogToDatabase.Controllers.ValuesController.Get (NlogToDatabase) in 3422.0578ms
+Microsoft.Extensions.Logging.Logger.Log|2018-01-15 11:23:39.0959|Info|Request finished in 3550.1335ms 200 application/json; charset=utf-8
+Microsoft.Extensions.Logging.Logger.Log|2018-01-15 11:24:35.4465|Info|User profile is available. Using 'C:\Users\hatimalij\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+Microsoft.Extensions.Logging.Logger.Log|2018-01-15 11:24:37.0007|Info|Request starting HTTP/1.1 GET http://localhost:51581/api/values  
+Microsoft.Extensions.Logging.Logger.Log|2018-01-15 11:24:37.5827|Info|Executing action method NlogToDatabase.Controllers.ValuesController.Get (NlogToDatabase) with arguments ((null)) - ModelState is Valid
+Microsoft.Extensions.Logging.Logger.Log|2018-01-15 11:24:40.7710|Info|Writing log to Database ...
+Microsoft.Extensions.Logging.Logger.Log|2018-01-15 11:24:40.8171|Info|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+Microsoft.Extensions.Logging.Logger.Log|2018-01-15 11:24:41.0111|Info|Executed action NlogToDatabase.Controllers.ValuesController.Get (NlogToDatabase) in 3439.9159ms
+Microsoft.Extensions.Logging.Logger.Log|2018-01-15 11:24:41.1311|Info|Request finished in 4144.7465ms 200 application/json; charset=utf-8

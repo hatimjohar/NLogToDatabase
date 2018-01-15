@@ -1,0 +1,12 @@
+D:\Personal\GitContribution\NlogToDatabase\NlogToDatabase\bin\Debug\netcoreapp2.0\NlogToDatabase.deps.json
+D:\Personal\GitContribution\NlogToDatabase\NlogToDatabase\bin\Debug\netcoreapp2.0\NlogToDatabase.runtimeconfig.json
+D:\Personal\GitContribution\NlogToDatabase\NlogToDatabase\bin\Debug\netcoreapp2.0\NlogToDatabase.runtimeconfig.dev.json
+D:\Personal\GitContribution\NlogToDatabase\NlogToDatabase\bin\Debug\netcoreapp2.0\NlogToDatabase.dll
+D:\Personal\GitContribution\NlogToDatabase\NlogToDatabase\obj\Debug\netcoreapp2.0\NlogToDatabase.csprojResolveAssemblyReference.cache
+D:\Personal\GitContribution\NlogToDatabase\NlogToDatabase\obj\Debug\netcoreapp2.0\NlogToDatabase.csproj.CoreCompileInputs.cache
+D:\Personal\GitContribution\NlogToDatabase\NlogToDatabase\obj\Debug\netcoreapp2.0\NlogToDatabase.AssemblyInfoInputs.cache
+D:\Personal\GitContribution\NlogToDatabase\NlogToDatabase\obj\Debug\netcoreapp2.0\NlogToDatabase.AssemblyInfo.cs
+D:\Personal\GitContribution\NlogToDatabase\NlogToDatabase\bin\Debug\netcoreapp2.0\nlog.config
+D:\Personal\GitContribution\NlogToDatabase\NlogToDatabase\bin\Debug\netcoreapp2.0\NlogToDatabase.pdb
+D:\Personal\GitContribution\NlogToDatabase\NlogToDatabase\obj\Debug\netcoreapp2.0\NlogToDatabase.dll
+D:\Personal\GitContribution\NlogToDatabase\NlogToDatabase\obj\Debug\netcoreapp2.0\NlogToDatabase.pdb
